@@ -1,0 +1,482 @@
+
+digraph G {
+    splines=line;
+    nodesep=0.1;
+    ranksep=.2;
+    rankdir=TD;
+    margin=0.0;
+    graph [label="1st decision tree - data", labelloc=t, fontname="Arial" fontsize=14 fontcolor="#444443"];
+    node [margin="0.03" penwidth="0.5" width=.1, height=.1];
+    edge [arrowsize=.4 penwidth="0.3"]
+
+    node5 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node5_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node3 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node3_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node8 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node8_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node2 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node2_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node14 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node14_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node17 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node17_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node13 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node13_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node22 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node22_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node20 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node20_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node12 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node12_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node26 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node26_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node25 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node25_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node11 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node11_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node1 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node1_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node34 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node34_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node32 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node32_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node38 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node38_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node43 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node43_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node41 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node41_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node37 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node37_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node31 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node31_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node30 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node30_13520.svg"/></td>
+            </tr>
+            </table>>]
+	node0 [margin="0" shape=none label=<<table border="0">
+            
+            <tr>
+                    <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/node0_13520.svg"/></td>
+            </tr>
+            </table>>]
+    node5 -> leaf6 [penwidth=0.3 color="#444443" label=<>]
+	node5 -> leaf7 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                leaf6 -> leaf7 [style=invis]
+            }
+            
+	node3 -> leaf4 [penwidth=0.3 color="#444443" label=<>]
+	node3 -> node5 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                leaf4 -> node5 [style=invis]
+            }
+            
+	node8 -> leaf9 [penwidth=0.3 color="#444443" label=<>]
+	node8 -> leaf10 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                leaf9 -> leaf10 [style=invis]
+            }
+            
+	node2 -> node3 [penwidth=0.3 color="#444443" label=<>]
+	node2 -> node8 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                node3 -> node8 [style=invis]
+            }
+            
+	node14 -> leaf15 [penwidth=0.3 color="#444443" label=<>]
+	node14 -> leaf16 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                leaf15 -> leaf16 [style=invis]
+            }
+            
+	node17 -> leaf18 [penwidth=0.3 color="#444443" label=<>]
+	node17 -> leaf19 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                leaf18 -> leaf19 [style=invis]
+            }
+            
+	node13 -> node14 [penwidth=0.3 color="#444443" label=<>]
+	node13 -> node17 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                node14 -> node17 [style=invis]
+            }
+            
+	node22 -> leaf23 [penwidth=0.3 color="#444443" label=<>]
+	node22 -> leaf24 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                leaf23 -> leaf24 [style=invis]
+            }
+            
+	node20 -> leaf21 [penwidth=0.3 color="#444443" label=<>]
+	node20 -> node22 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                leaf21 -> node22 [style=invis]
+            }
+            
+	node12 -> node13 [penwidth=0.3 color="#444443" label=<>]
+	node12 -> node20 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                node13 -> node20 [style=invis]
+            }
+            
+	node26 -> leaf27 [penwidth=0.3 color="#444443" label=<>]
+	node26 -> leaf28 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                leaf27 -> leaf28 [style=invis]
+            }
+            
+	node25 -> node26 [penwidth=0.3 color="#444443" label=<>]
+	node25 -> leaf29 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                node26 -> leaf29 [style=invis]
+            }
+            
+	node11 -> node12 [penwidth=0.3 color="#444443" label=<>]
+	node11 -> node25 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                node12 -> node25 [style=invis]
+            }
+            
+	node1 -> node2 [penwidth=0.3 color="#444443" label=<>]
+	node1 -> node11 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                node2 -> node11 [style=invis]
+            }
+            
+	node34 -> leaf35 [penwidth=0.3 color="#444443" label=<>]
+	node34 -> leaf36 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                leaf35 -> leaf36 [style=invis]
+            }
+            
+	node32 -> leaf33 [penwidth=0.3 color="#444443" label=<>]
+	node32 -> node34 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                leaf33 -> node34 [style=invis]
+            }
+            
+	node38 -> leaf39 [penwidth=0.3 color="#444443" label=<>]
+	node38 -> leaf40 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                leaf39 -> leaf40 [style=invis]
+            }
+            
+	node43 -> leaf44 [penwidth=0.3 color="#444443" label=<>]
+	node43 -> leaf45 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                leaf44 -> leaf45 [style=invis]
+            }
+            
+	node41 -> leaf42 [penwidth=0.3 color="#444443" label=<>]
+	node41 -> node43 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                leaf42 -> node43 [style=invis]
+            }
+            
+	node37 -> node38 [penwidth=0.3 color="#444443" label=<>]
+	node37 -> node41 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                node38 -> node41 [style=invis]
+            }
+            
+	node31 -> node32 [penwidth=0.3 color="#444443" label=<>]
+	node31 -> node37 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                node32 -> node37 [style=invis]
+            }
+            
+	node30 -> node31 [penwidth=0.3 color="#444443" label=<>]
+	node30 -> leaf46 [penwidth=0.3 color="#444443" label=<>]
+	
+            {
+                rank=same;
+                node31 -> leaf46 [style=invis]
+            }
+            
+	node0 -> node1 [penwidth=0.3 color="#444443" label=<&le;>]
+	node0 -> node30 [penwidth=0.3 color="#444443" label=<&gt;>]
+	
+            {
+                rank=same;
+                node1 -> node30 [style=invis]
+            }
+            
+    leaf4 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf4_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf6 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf6_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf7 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf7_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf9 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf9_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf10 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf10_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf15 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf15_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf16 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf16_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf18 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf18_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf19 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf19_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf21 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf21_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf23 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf23_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf24 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf24_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf27 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf27_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf28 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf28_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf29 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf29_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf33 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf33_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf35 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf35_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf36 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf36_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf39 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf39_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf40 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf40_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf42 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf42_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf44 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf44_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf45 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf45_13520.svg"/></td>
+        </tr>
+        </table>>]
+	leaf46 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0">
+        
+        <tr>
+                <td><img src="C:\Users\LORDUA~1\AppData\Local\Temp/leaf46_13520.svg"/></td>
+        </tr>
+        </table>>]
+
+    
+    
+}
+    
