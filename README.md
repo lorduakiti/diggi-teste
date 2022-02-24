@@ -1,8 +1,27 @@
 # Diggi
 Estudo de Caso - [Cientista de Dados]() - [diggi]()
 
+
 ## Objetivo:
 Estudo de caso para que o candidato possa demonstrar seus conhecimentos de Ciência de Dados. A partir dos atributos apresentados é possível entender as características dos clientes, bem como a performance (inadimplência dos mesmos).  A performance dos clientes foi realizada através de backtest, seguindo a descrição de cada um dos atributos de performance. As informações confidenciais e de identificação dos clientes foram omitidas.
+
+## Resultados:
+[Apresentação - Versão 1.0](/Diggi - Estudo de Caso.pdf) 
+
+[Exploração de Dados](/estudo_de_caso_diggi/analises/exploracao_de_dados.ipynb) 
+
+[Exploração de Dados (Power BI)](/exploracao_de_dados.pdf) 
+
+[Análise utilizando árvore de decisão](/estudo_de_caso_diggi/analises/analise_arvore_de_decisao.ipynb) 
+
+[Análise utilizando árvore randômica](/estudo_de_caso_diggi/analises/analise_arvore_randomica.ipynb) 
+
+[Análise com autoML](/estudo_de_caso_diggi/analises/analise_autoML.ipynb) 
+
+[Análise de Classificação de Clientes](/estudo_de_caso_diggi/analises/analise_classificacao.ipynb) 
+
+
+
 
 ## Bases:
 Para este teste utilize o seguinte dataset, considerando os arquivos listados a seguir, enviados junto a este teste:
