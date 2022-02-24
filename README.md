@@ -6,7 +6,7 @@ Estudo de Caso - [Cientista de Dados]() - [diggi]()
 Estudo de caso para que o candidato possa demonstrar seus conhecimentos de Ciência de Dados. A partir dos atributos apresentados é possível entender as características dos clientes, bem como a performance (inadimplência dos mesmos).  A performance dos clientes foi realizada através de backtest, seguindo a descrição de cada um dos atributos de performance. As informações confidenciais e de identificação dos clientes foram omitidas.
 
 ## Resultados:
-[Apresentação - Versão 1.0](/Diggi - Estudo de Caso.pdf) 
+[Apresentação - Versão 1.0](/Diggi%20-%20Estudo%20de%20Caso.pdf) 
 
 [Exploração de Dados](/estudo_de_caso_diggi/analises/exploracao_de_dados.ipynb) 
 
